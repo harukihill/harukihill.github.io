@@ -1,0 +1,64 @@
+header {
+	font-family: sans-serif;
+	background: gainsboro;
+}
+
+img {
+	text-align: center;
+	display: block;
+}
+
+
+div {
+	border: 6px solid #949599;
+	height: 30px;
+	margin: 10px;
+	padding: 20px;
+}
+
+.div-article-text {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.banner {
+	height: 100px;
+	background: rgb(250, 250, 251);
+	border-color: rgb(100, 100, 100);
+
+}
+
+.banner-title {
+	font-family: 'Georgia';
+	font-size: 55px;
+	font-weight: 500;
+	color: black;
+	margin-top: 10px;
+	margin-bottom: 5px;
+
+} 
+
+.banner-subtitle {
+	font-family: 'Tahoma';
+	font-size: 20px;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.article-title {
+	font-family: 'Georgia';
+	font-size: 40px;
+	text-align: center;
+}
+
+.article-text {
+	width: 700px;
+	text-align: left;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
